@@ -1,5 +1,5 @@
-# Severstal-Steel-Defect-Detection-Kaggle
-in this repository i will put some of my kernels that i used in steel defect detection kaggle competition,competition link : https://www.kaggle.com/c/severstal-steel-defect-detection
+# Severstal-Steel-Defect-Detection-Kaggle (36th place solutions)
+in this repository we will put some of our kernels that we used in steel defect detection kaggle competition,competition link : https://www.kaggle.com/c/severstal-steel-defect-detection
 
 
 for reference : 
